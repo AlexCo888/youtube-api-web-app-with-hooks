@@ -1,5 +1,7 @@
 ## I created this web app with React, Youtube API, Axios and Semantic UI to better understand how Youtube API works.
 
+### You can see the website here: https://youtube-api-web-app.netlify.app/ (please consider that this was made only for learning purposes about Youtube's API, it is not a responsive design. For better experience visit the website on a laptop or desktop computer).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
